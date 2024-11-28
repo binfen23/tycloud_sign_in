@@ -1,4 +1,4 @@
-name:tycloud_sign_in
+name: tycloud_sign_in
 
 on:
   repository_dispatch:
