@@ -78,7 +78,7 @@ curl -L \
   -H "Accept: application/vnd.github+json" \
   -H "Authorization: Bearer ghp_xxxxxxxxxxxxxxxxxx" \
   https://api.github.com/repos/拥有者/仓库名/dispatches \
-  -d '{"event_type":"sing-in"}'
+  -d '{"event_type":"sign-in"}'
 ```
 
 ## All Done!!
